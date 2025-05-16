@@ -73,7 +73,7 @@ As informações são obtidas em tempo real da API pública dos Correios (ViaCEP
 └── README.md             # Este arquivo
 ```
 
-![Demonstração da aplicação](images/page.png)
+![Demonstração da aplicação](page.png)
 
 ## 🧑‍💻 Autor
 
