@@ -42,7 +42,7 @@ poetry install
 4. Ative o ambiente virtual gerenciado pelo Poetry:
 
 ```bash
-poetry shell
+poetry env activate
 ```
 
 5. Execute a aplicação com Streamlit:
